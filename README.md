@@ -5,7 +5,7 @@
 iTransformerDiffusion 是一个结合 iTransformer 和扩散模型的概率时间序列预测框架，能够同时提供点预测和不确定性量化。
 
 <p align="center">
-  <img src="./pic/architecture.png" width="800" alt="iTransformerDiffusion Architecture"/>
+  <img src="./pic/iTransformerDiffusion Architecture.png" width="800" alt="iTransformerDiffusion Architecture"/>
 </p>
 
 ## Highlights
